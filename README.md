@@ -2,7 +2,7 @@
 
 Update the information below.
 
-Name: 
+Name: Noor Al-Shakarji
 Course: INFOTC 4405 / CMP_SC 4405
-Section:
-Semester:
+Section: In Person
+Semester: spring 2026

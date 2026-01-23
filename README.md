@@ -2,7 +2,7 @@
 
 Update the information below.
 
-Name: Noor Al-Shakarji
+Name: Alex AA
 Course: INFOTC 4405 / CMP_SC 4405
 Section: In Person
-Semester: spring 2026
+Semester: Fall 2026
